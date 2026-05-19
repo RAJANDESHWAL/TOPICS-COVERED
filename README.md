@@ -1,2 +1,8 @@
-# TOPICS-COVERED
-these are the topics that i have covered in my ML journey i will update these in every 2 weeks 
+# Machine Learning Topics Covered
+
+This repository contains:
+- EDA
+- Regression
+- Data Transformation
+- ML from Scratch
+- Titanic Dataset Practice
